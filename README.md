@@ -1,1 +1,2 @@
 # Debutez-avec-React
+Ce cours a été conçu autour d’un exercice fil rouge : au fil des chapitres, nous allons créer votre première application React qui sera un site de vente de plantes. Si vous êtes curieux, et que vous avez envie de voir à quoi le site va ressembler, vous pouvez aller voir la version que j’ai mise en ligne ici. ✨ Les notions vues dans chaque chapitre vous permettront d’enrichir ce site au fur et à mesure en lui ajoutant de nouvelles fonctionnalités.
